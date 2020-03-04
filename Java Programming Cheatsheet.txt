@@ -1,0 +1,503 @@
+Computer Science: An Interdisciplinary Approach
+<https://introcs.cs.princeton.edu/java/home>
+
+  * Intro to Programming <https://introcs.cs.princeton.edu/java/home>
+      o 1.  Elements of Programming
+        <https://introcs.cs.princeton.edu/java/10elements>
+          + 1.1  Your First Program
+            <https://introcs.cs.princeton.edu/java/11hello>
+          + 1.2  Built-in Types of Data
+            <https://introcs.cs.princeton.edu/java/12types>
+          + 1.3  Conditionals and Loops
+            <https://introcs.cs.princeton.edu/java/13flow>
+          + 1.4  Arrays <https://introcs.cs.princeton.edu/java/14array>
+          + 1.5  Input and Output
+            <https://introcs.cs.princeton.edu/java/15inout>
+          + 1.6  Case Study: PageRank
+            <https://introcs.cs.princeton.edu/java/16pagerank> 
+      o 2.  Functions <https://introcs.cs.princeton.edu/java/20functions>
+          + 2.1  Static Methods
+            <https://introcs.cs.princeton.edu/java/21function>
+          + 2.2  Libraries and Clients
+            <https://introcs.cs.princeton.edu/java/22library>
+          + 2.3  Recursion
+            <https://introcs.cs.princeton.edu/java/23recursion>
+          + 2.4  Case Study: Percolation
+            <https://introcs.cs.princeton.edu/java/24percolation> 
+      o 3.  OOP <https://introcs.cs.princeton.edu/java/30oop>
+          + 3.1  Using Data Types
+            <https://introcs.cs.princeton.edu/java/31datatype>
+          + 3.2  Creating Data Types
+            <https://introcs.cs.princeton.edu/java/32class>
+          + 3.3  Designing Data Types
+            <https://introcs.cs.princeton.edu/java/33design>
+          + 3.4  Case Study: N-Body
+            <https://introcs.cs.princeton.edu/java/34nbody> 
+      o 4.  Data Structures
+        <https://introcs.cs.princeton.edu/java/40algorithms>
+          + 4.1  Performance
+            <https://introcs.cs.princeton.edu/java/41analysis>
+          + 4.2  Sorting and Searching
+            <https://introcs.cs.princeton.edu/java/42sort>
+          + 4.3  Stacks and Queues
+            <https://introcs.cs.princeton.edu/java/43stack>
+          + 4.4  Symbol Tables <https://introcs.cs.princeton.edu/java/44st>
+          + 4.5  Case Study: Small World
+            <https://introcs.cs.princeton.edu/java/45graph> 
+
+  * Computer Science <https://introcs.cs.princeton.edu/java/cs>
+      o 5.  Theory of Computing
+        <https://introcs.cs.princeton.edu/java/50theory>
+          + 5.1  Formal Languages
+            <https://introcs.cs.princeton.edu/java/51language>
+          + 5.2  Turing Machines
+            <https://introcs.cs.princeton.edu/java/52turing>
+          + 5.3  Universality
+            <https://introcs.cs.princeton.edu/java/53universality>
+          + 5.4  Computability
+            <https://introcs.cs.princeton.edu/java/54computability>
+          + 5.5  Intractability
+            <https://introcs.cs.princeton.edu/java/55intractability>
+          + 9.9  Cryptography
+            <https://introcs.cs.princeton.edu/java/99crypto> 
+      o 6.  A Computing Machine
+        <https://introcs.cs.princeton.edu/java/60machine>
+          + 6.1  Representing Info
+            <https://introcs.cs.princeton.edu/java/61data>
+          + 6.2  TOY Machine <https://introcs.cs.princeton.edu/java/62toy>
+          + 6.3  TOY Programming
+            <https://introcs.cs.princeton.edu/java/63programming>
+          + 6.4  TOY Virtual Machine
+            <https://introcs.cs.princeton.edu/java/64simulator> 
+      o 7.  Building a Computer
+        <https://introcs.cs.princeton.edu/java/70circuits>
+          + 7.1  Boolean Logic
+            <https://introcs.cs.princeton.edu/java/71boolean>
+          + 7.2  Basic Circuit Model
+            <https://introcs.cs.princeton.edu/java/72circuit>
+          + 7.3  Combinational Circuits
+            <https://introcs.cs.princeton.edu/java/73combinational>
+          + 7.4  Sequential Circuits
+            <https://introcs.cs.princeton.edu/java/74sequential>
+          + 7.5  Digital Devices
+            <https://introcs.cs.princeton.edu/java/75architecture> 
+
+  * Beyond <https://introcs.cs.princeton.edu/java/home>
+      o 8.  Systems <https://introcs.cs.princeton.edu/java/80systems>
+          + 8.1  Library Programming
+            <https://introcs.cs.princeton.edu/java/81library>
+          + 8.2  Compilers
+            <https://introcs.cs.princeton.edu/java/82compiler>
+          + 8.3  Operating Systems
+            <https://introcs.cs.princeton.edu/java/83os>
+          + 8.4  Networking
+            <https://introcs.cs.princeton.edu/java/84network>
+          + 8.5  Applications Systems
+            <https://introcs.cs.princeton.edu/java/85application> 
+      o 9.  Scientific Computation
+        <https://introcs.cs.princeton.edu/java/90scientific>
+          + 9.1  Floating Point
+            <https://introcs.cs.princeton.edu/java/91float>
+          + 9.2  Symbolic Methods
+            <https://introcs.cs.princeton.edu/java/92symbolic>
+          + 9.3  Numerical Integration
+            <https://introcs.cs.princeton.edu/java/93integration>
+          + 9.4  Differential Equations
+            <https://introcs.cs.princeton.edu/java/94diffeq>
+          + 9.5  Linear Algebra
+            <https://introcs.cs.princeton.edu/java/95linear>
+          + 9.6  Optimization
+            <https://introcs.cs.princeton.edu/java/96optimization>
+          + 9.7  Data Analysis
+            <https://introcs.cs.princeton.edu/java/97data>
+          + 9.8  Simulation
+            <https://introcs.cs.princeton.edu/java/98simulation> 
+
+  * Related Booksites
+    Introduction to Programming in Python by Robert Sedgewick, Kevin
+    Wayne, and Robert Dondero
+    <https://introcs.cs.princeton.edu/python> 	Algorihtms, 4th Edition
+    by Robert Sedgewick and Kevin Wayne <https://algs4.cs.princeton.edu/>
+
+  * Web Resources <https://introcs.cs.princeton.edu/home>
+      o FAQ <https://introcs.cs.princeton.edu/java/faq>
+      o Data <https://introcs.cs.princeton.edu/java/data>
+      o Code <https://introcs.cs.princeton.edu/java/code>
+      o Errata <https://introcs.cs.princeton.edu/java/errata>
+      o Lectures <https://introcs.cs.princeton.edu/java/lectures>
+      o Appendices <https://introcs.cs.princeton.edu/java/11appendix>
+          + A.   Operator Precedence
+            <https://introcs.cs.princeton.edu/java/11precedence>
+          + B.   Writing Clear Code
+            <https://introcs.cs.princeton.edu/java/11style>
+          + C.   Glossary
+            <https://introcs.cs.princeton.edu/java/11glossary>
+          + D.   TOY Cheatsheet
+            <https://introcs.cs.princeton.edu/java/11cheatsheet-toy>
+          + E.   Matlab <https://introcs.cs.princeton.edu/java/11matlab> 
+      o Online Course <https://www.coursera.org/learn/cs-programming-java>
+      o Java Cheatsheet
+        <https://introcs.cs.princeton.edu/java/11cheatsheet>
+      o Programming Assignments
+        <https://introcs.cs.princeton.edu/java/assignments> 
+
+
+	
+× <javascript:void(0)>
+
+	search	 
+
+
+  Java Programming Cheatsheet
+
+
+We summarize the most commonly used Java language features and APIs in
+the textbook.
+
+
+Hello, World.
+
+    Hello, World in Java 
+
+
+Editing, compiling, and executing.
+
+    Compiling Hello, World in Java 
+
+
+Built-in data types.
+
+    Built-in types of data 
+
+
+Declaration and assignment statements.
+
+    Assignment statements 
+
+
+Integers.
+
+    int data type 
+
+    Integer expressions 
+
+
+Floating-point numbers.
+
+    double data type 
+
+    double expressions 
+
+
+Booleans.
+
+    boolean data type 
+
+    Boolean operators 
+
+
+Comparison operators.
+
+    Comparison operators 
+
+    Comparison examples 
+
+
+Printing.
+
+    System.out.print() 
+
+
+Parsing command-line arguments.
+
+    parsing Command-line arguments 
+
+
+Math library.
+
+    Math library API 
+
+The full java.lang.Math API
+<http://docs.oracle.com/javase/8/docs/api/java/lang/Math.html>.
+
+
+Java library calls.
+
+    Expressions that use Java library methods 
+
+
+Type conversion.
+
+    Type conversion 
+
+
+Anatomy of an if statement.
+
+    anatomy of an if statement 
+
+
+If and if-else statements.
+
+    If-else statements 
+
+
+Nested if-else statement.
+
+    Nested if-else statements in Java 
+
+
+Anatomy of a while loop.
+
+    While loop 
+
+
+Anatomy of a for loop.
+
+    For loop 
+
+
+Loops.
+
+    While and for loops in Java 
+
+
+Break statement.
+
+    Break statement in Java 
+
+
+Do-while loop.
+
+    Do-while loop in Java 
+
+
+Switch statement.
+
+    Switch statement in Java 
+
+
+Arrays.
+
+    An array 
+
+Inline array initialization.
+
+    Inline initialization of arrays 
+
+Typical array-processing code.
+
+    Typical array-processing code 
+
+
+Two-dimensional arrays.
+
+    2D array 
+
+Inline initialization.
+
+    2D array inline initialization 
+
+
+Our standard output library.
+
+    Standard output API 
+
+The full StdOut API
+<https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdOut.html>.
+
+    Anatomy of printf 
+
+    Formatting codes for printf 
+
+
+Our standard input library.
+
+    Standard input API 
+
+The full StdIn API
+<https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdIn.html>.
+
+
+Our standard drawing library.
+
+    Standard drawing API 
+
+The full StdDraw API
+<https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html>.
+
+
+Our standard audio library.
+
+    Standard audio API 
+
+The full StdAudio API
+<https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdAudio.html>.
+
+
+Command line.
+
+    command line 
+
+
+Redirection and piping.
+
+    Redirecting standard output                Redirecting standard input 
+
+
+    Piping 
+
+
+Functions.
+
+    Anatomy of a function 
+
+    Example functions 
+
+
+Libraries of functions.
+
+    Library abstraction 
+
+
+Our standard random library.
+
+    Standard random 
+
+
+Our standard statistics library.
+
+    Standard statistics 
+
+
+Using an object.
+
+    Using an object 
+
+
+Instance variables.
+
+    Anatomy of instance variables 
+
+
+Constructors.
+
+    Anatomy of a constructor 
+
+
+Instance methods.
+
+    Anatomy of an instance method 
+
+
+Classes.
+
+    Anatomy of a class 
+
+
+Object-oriented libraries.
+
+    Object-oriented library abstraction 
+
+
+Java's String data type.
+
+    String library API 
+
+The full java.lang.String API
+<http://docs.oracle.com/javase/6/docs/api/java/lang/String.html>.
+
+    String operations 
+
+
+Java's Color data type.
+
+    Color library API 
+
+The full java.awt.Color API
+<http://docs.oracle.com/javase/6/docs/api/java/awt/Color.html>.
+
+
+Our input library.
+
+    Input API 
+
+The full In API
+<https://introcs.cs.princeton.edu/java/stdlib/javadoc/In.html>.
+
+
+Our output library.
+
+    Output API 
+
+The full Out API
+<https://introcs.cs.princeton.edu/java/stdlib/javadoc/Out.html>.
+
+
+Our picture library.
+
+    Picture API 
+
+The full Picture API
+<https://introcs.cs.princeton.edu/java/stdlib/javadoc/Picture.html>.
+
+
+Our stack data type.
+
+    Stack API 
+
+The full Stack API
+<https://introcs.cs.princeton.edu/java/code/javadoc/Stack.html>.
+
+
+Our queue data type.
+
+    Queue API 
+
+The full Queue API
+<https://introcs.cs.princeton.edu/java/code/javadoc/Queue.html>.
+
+
+Iterable.
+
+    Anatomy of an iterable 
+
+
+Our symbol table data type.
+
+    Symbol Table API 
+
+The full ST API
+<https://introcs.cs.princeton.edu/java/code/javadoc/ST.html>.
+
+
+Our set data type.
+
+    Set API 
+
+The full SET API
+<https://introcs.cs.princeton.edu/java/code/javadoc/SET.html>.
+
+
+Our graph data type.
+
+    Graph API 
+
+The full Graph API
+<https://introcs.cs.princeton.edu/java/code/javadoc/Graph.html>.
+
+
+Compile-time and run-time errors.
+
+Here's a list of errors
+<https://introcs.cs.princeton.edu/java/11cheatsheet/errors.pdf> compiled
+by Mordechai Ben-Ari. It includes a list of common error message and
+typical mistakes that give rise to them.
+
+/Last modified on October 30, 2019./
+
+Copyright © 2000–2019 Robert Sedgewick
+<https://www.cs.princeton.edu/~rs> and Kevin Wayne
+<https://www.cs.princeton.edu/~wayne>. All rights reserved.
+
+	
+
