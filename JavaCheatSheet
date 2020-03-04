@@ -79,6 +79,18 @@ Arrays and ArrayLists*Grr
             ^
             |
             column y
+TO-DO
+  **https://introcs.cs.princeton.edu/java/11cheatsheet/
+    StdOut API
+    STANDARD INPUT LIBRARY
+    STANDARD FUNCTIONS
+    STANDARD RANDOM LIBRARY
+    STANDARD STATISTICS
+    STRING DATA TYPE METHODS
+  INITIALIZING 2D ARRAYS AND ARRAY LISTS
+  DECIMAL FORMAT/STRING.FORMAT
+    **https://stackoverflow.com/questions/153724/how-to-round-a-number-to-n-decimal-places-in-java
+  
         
   
 
