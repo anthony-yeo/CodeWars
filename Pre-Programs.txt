@@ -1,7 +1,8 @@
-**Armstrong Number**
-### Number is equal to the cue of its each digit (153 -> 1^3 + 3^3 + 5^3 -> 1 + 27 + 125 = 153)
+#Armstrong Number
+~Number is equal to the cue of its each digit (153 -> 1^3 + 3^3 + 5^3 -> 1 + 27 + 125 = 153)
   public class ArmstrongNumber {
-
+  
+    ###### Run Code
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
       int n = sc.nextInt();
@@ -44,14 +45,15 @@
     }
 
   }
-
+----------------------------------------------------------------------- 
 
 #Factorials
   import java.math.BigInteger; //used for values that contain a lot of digits, reference type instead of primitive, use .equals() when comparing
   import java.util.Scanner;
 
   public class Factorial {
-
+  
+    ###### Run Code
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
       BigInteger i = sc.nextBigInteger();
@@ -69,15 +71,16 @@
       }
       return fact;
     }
-    ###### Run Code
+   
     public static BigInteger Fact(BigInteger num) {
       if (num.compareTo(BigInteger.ZERO) == 0)
         return BigInteger.ONE;
       return num.multiply(Fact(num.subtract(BigInteger.ONE)));
     }
   }
+-----------------------------------------------------------------------  
   
-  #Binary Search
+#Binary Search
     public class BinarySearch {
 
     public static int binarySearch(int number, int[] array) {
@@ -107,3 +110,54 @@
       System.out.println("Index of " + number + " in the array is " + binarySearch(number, array));
     }
   }
+----------------------------------------------------------------------- 
+
+#Fibonacci
+ import java.math.BigInteger;
+ import java.util.Scanner;
+ 
+ public class FibonacciSeries {
+ 
+  ######Run Code
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		sc.close();
+		// BigInteger result = fibonacciRecursion(n); // it takes more time if n >= 35
+		 BigInteger result = fibonacciNoRecursion(n);
+		System.out.println(result);
+	}
+  
+	/*
+	 * using recursion to calculate fibonacci number is great, but it takes time
+	 * when x getting bigger (try x = 40)
+	 */
+   
+	public static BigInteger fibonacciRecursion(int x) {
+		switch (x) {
+		case 0:
+			return BigInteger.ZERO;
+		case 1:
+			return BigInteger.ONE;
+		default:
+			return fibonacciRecursion(x - 1).add(fibonacciRecursion(x - 2));
+		}
+	}
+
+	public static BigInteger fibonacciNoRecursion(int x) {
+		if (x == 0 || x == 1) {
+			return BigInteger.valueOf(x);
+		} else {
+			BigInteger a = BigInteger.ZERO, b = BigInteger.ONE;
+			BigInteger r = BigInteger.ZERO;
+			for (int i = 2; i <= x; i++) {
+				r = a.add(b);
+				a = b;
+				b = r;
+			}
+			return r;
+		}
+	}
+}
+----------------------------------------------------------------------- 
+
