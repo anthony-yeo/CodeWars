@@ -1,4 +1,4 @@
-package javarevisited.top.fifty.java.programs.from.coding.interviews;
+
 
 public class BinarySearch {
 
