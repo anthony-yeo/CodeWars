@@ -1,22 +1,7 @@
-package javarevisited.top.fifty.java.programs.from.coding.interviews;
 
 import java.math.BigInteger;
 import java.util.Scanner;
 
-/**
- * @author medany
- * @see <a href=
- *      'http://www.java67.com/2016/05/fibonacci-series-in-java-using-recursion.html'>
- *      Fibonacci Series in Java</a>
- */
-
-/*
- * Write a simple Java program which will print Fibonacci series e.g. 1 1 2 3 5
- * 8 13 ... . up to a given number. Be prepare for cross questions like using
- * iteration over recursion and how to optimize the solution using caching and
- * memoization
- * 
- */
 public class FibonacciSeries {
 
 	public static void main(String[] args) {
