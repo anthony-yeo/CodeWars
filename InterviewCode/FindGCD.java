@@ -1,17 +1,7 @@
-package javarevisited.top.fifty.java.programs.from.coding.interviews;
+
 
 import java.math.BigInteger;
 import java.util.Scanner;
-
-/**
- * @author medany
- */
-
-/*
- * How to find GCD of two numbers in Java. The Greatest common Divisor of two
- * numbers is the largest positive integer that divides both the numbers fully
- * i.e. without any remainder.
- */
 
 public class FindGCD {
 	public static void main(String args[]) {
