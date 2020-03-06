@@ -1,10 +1,6 @@
-package javarevisited.top.fifty.java.programs.from.coding.interviews;
+
 
 import java.util.Scanner;
-
-/**
- * @author medany
- */
 
 public class FirstnonRepeatedCharacter {
 	public static void main(String[] args) {
