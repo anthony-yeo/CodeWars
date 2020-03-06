@@ -1,17 +1,9 @@
-package javarevisited.top.fifty.java.programs.from.coding.interviews;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * @author medany
- */
-
-/*
- * 
- */
 public class FindStringRepeatedCharacters {
 
 	public static void main(String[] args) {
